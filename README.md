@@ -1,5 +1,5 @@
 <div align="center">
-   .....................................................................................................................................................................................................................................................................................................
+   .............................................................................................................................................................................................................................................................................
    
 </div>
 
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-   ...................................................................................................................................................................................................................................................................................................
+   .............................................................................................................................................................................................................................................................................
    
 </div>
 
@@ -30,7 +30,7 @@
 
 <table align="center">
   <tbody>
-    <tr align="center">
+    <tr>
       <td width="25%" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
         <img width="12" />
@@ -47,8 +47,6 @@
         <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
         <img width="12" />
       </td>
-    </tr>
-    <tr align="center">
       <td width="25%" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
         <img width="12" />
@@ -57,6 +55,8 @@
         <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
         <img width="12" />
       </td>
+    </tr>
+    <tr>
       <td width="25%" align="center">
         <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
         <img width="12" />
@@ -65,8 +65,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
         <img width="12" />
       </td>
-    </tr>
-    <tr align="center">
       <td width="25%" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
         <img width="12" />
