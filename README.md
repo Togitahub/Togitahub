@@ -8,11 +8,7 @@
 
 <p>Soy un desarrollador Full-Stack en formación, apasionado por dar vida a ideas innovadoras. Mi misión es construir soluciones robustas y eficientes, siempre buscando la optimización perfecta en cada línea de código. Me encanta sumergirme en el mundo de la tecnología, explorar nuevos descubrimientos y aprender constantemente. La Inteligencia Artificial me fascina, y estoy emocionado por todo lo que puedo crear con ella. ¡Listo para enfrentar cualquier desafío y seguir aprendiendo cada día!</p>
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://www.flaticon.es/icono-gratis/estados-unidos_197484?term=banderas&page=1&position=1&origin=tag&related_id=197484" height="30" alt="html5 logo"  />
-<img width="12" />
+<p align="center">I speak 🇪🇸</p>
 
 </div>
 
