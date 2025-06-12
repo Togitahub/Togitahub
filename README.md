@@ -1,5 +1,3 @@
-<hr/>
-
 <div style="margin-bottom: 10px;">
    <div align="center">
       <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false />
@@ -19,8 +17,6 @@
       <img width="100%"  src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" />
    </div>
 </div>
-
-<hr/>
 
 ## 💻 Skills
 
