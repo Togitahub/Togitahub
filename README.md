@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to Oscar Bolaños Chacon's Profile 🌟
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Oscar Bolaños, welcome to my profile </h1>
 
 <p><em>Soy un desarrollador Full-Stack en formación, apasionado por dar vida a ideas innovadoras. Mi misión es construir soluciones robustas y eficientes, siempre buscando la optimización perfecta en cada línea de código. Me encanta sumergirme en el mundo de la tecnología, explorar nuevos descubrimientos y aprender constantemente. La Inteligencia Artificial me fascina, y estoy emocionado por todo lo que puedo crear con ella. ¡Listo para enfrentar cualquier desafío y seguir aprendiendo cada día! </em></p>
 
