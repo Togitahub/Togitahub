@@ -44,7 +44,7 @@
         <img width="12" />
       </td>
       <td width="25%" align="center">
-        <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
+        <img align="center" src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
         <img width="12" />
       </td>
     </tr>
