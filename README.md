@@ -7,7 +7,7 @@
    
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Oscar Bolaños, welcome to my profile </h1>
    
-   <p>Soy un desarrollador Full-Stack en formación, apasionado por dar vida a ideas innovadoras. Mi misión es construir soluciones robustas y eficientes, siempre buscando la optimización perfecta en cada línea de código. Me encanta sumergirme en el mundo de la tecnología, explorar nuevos descubrimientos y aprender constantemente. La Inteligencia Artificial me fascina, y estoy emocionado por todo lo que puedo crear con ella. ¡Listo para enfrentar cualquier desafío y seguir aprendiendo cada día!</p>
+   <p>Soy un desarrollador Full-Stack en formación, apasionado por dar vida a ideas innovadoras. Mi misión es construir soluciones robustas y eficientes, siempre buscando la optimización perfecta en cada línea de código. Me encanta            sumergirme en el mundo de la tecnología, explorar nuevos descubrimientos y aprender constantemente. La Inteligencia Artificial me fascina, y estoy emocionado por todo lo que puedo crear con ella. ¡Listo para enfrentar cualquier          desafío y seguir aprendiendo cada día!</p>
    
    <p align="center">I speak Intermediate English and Native Spanish</p>
    
@@ -18,7 +18,9 @@
    </div>
 </div>
 
-##
+<div>
+   .
+</div>
 
 ## 💻 Skills
 
