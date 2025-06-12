@@ -28,7 +28,7 @@
 
 ## 💻 Skills
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td width="25%" align="center">
