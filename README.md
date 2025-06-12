@@ -75,7 +75,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Togitahub&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Togitahub" />
 </p>
 
 ## 📊 GitHub Stats
