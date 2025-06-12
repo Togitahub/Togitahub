@@ -17,7 +17,7 @@
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>Obtener mayores conocimientos y estudios, encontrar un empleo en el cual pueda desarrollar mis habilidades y profesionalismo</p></div>
+<div align="center" border="1px"><p>Obtener mayores conocimientos y estudios, encontrar un empleo en el cual pueda desarrollar mis habilidades y profesionalismo</p></div>
 
 ## 🌱 I'm currently learning
 
