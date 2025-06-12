@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
 <img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://www.flaticon.es/icono-gratis/estados-unidos_197484?term=banderas&page=1&position=1&origin=tag&related_id=197484)" height="30" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://www.flaticon.es/icono-gratis/estados-unidos_197484?term=banderas&page=1&position=1&origin=tag&related_id=197484" height="30" alt="html5 logo"  />
 <img width="12" />
 
 </div>
