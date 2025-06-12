@@ -87,13 +87,6 @@
   </tbody>
 </table>
 
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Togitahub/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
 ## 📊 GitHub Stats
 
 <div align="center">
