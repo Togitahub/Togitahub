@@ -13,20 +13,6 @@
 
 </div>
 
-<hr>
-
-## 🔭 I'm currently working on
-
-<div align="center" border="1px"><p>Obtener mayores conocimientos y estudios, encontrar un empleo en el cual pueda desarrollar mis habilidades y profesionalismo</p></div>
-
-## 🌱 I'm currently learning
-
-<div align="center"><p>Me gustaría aprender nuevos frameworks y lenguajes, además de especializarme en la ciencia de datos que va de la mano con la programación</p></div>
-
-## 👀 I'm interested in
-
-<div align="center"><p>Front-end, back-end, datos y diseño app web</p></div>
-
 ## 👀 Visitor Count
 
 <!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
