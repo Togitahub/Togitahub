@@ -72,12 +72,6 @@
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Togitahub" />
-</p>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -95,6 +89,12 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togitahub&theme=radical&hide_border=false" />
 </div>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Togitahub" />
+</p>
 
 ## 🌐 Socials
 
