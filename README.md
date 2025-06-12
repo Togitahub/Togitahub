@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-   
+   <hr>
 </div>
 
 ## 💻 Skills
