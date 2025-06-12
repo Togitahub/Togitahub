@@ -15,7 +15,7 @@
 
 ## 💻 Skills
 
-<div align="center" style="border: 5px solid white;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -43,7 +43,6 @@
 
 ## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/Togitahub/count.svg" />
   <br>Thank you for visiting my profile! Come back soon!
@@ -51,28 +50,24 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Togitahub&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Togitahub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Togitahub&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togitahub&theme=radical&hide_border=false" />
 </div>
@@ -98,23 +93,28 @@
 ## 🌐 Socials
 
 <div align="center">
-
-<a href="https://github.com/Togitahub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/oscaranbocha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
-
+  <a href="https://www.instagram.com/totabch/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/oscaranbocha/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/tota.bolanoschacon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
 </div>
 
 ## 📫 How to reach me
 
 <div align="center">
-
-**Email:** totmom07@gmail.com
-**Phone:** +50670216172
+   
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+<p>totmom07@gmail.com</p>
 
 </div>
 
 <div align="center">
 
-<!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URLs below -->
 <img src="https://komarev.com/ghpvc/?username=Togitahub&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 <img src="https://img.shields.io/github/followers/Togitahub?style=for-the-badge&color=ff69b4" alt="Followers"/>
