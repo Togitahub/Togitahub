@@ -17,10 +17,8 @@
    <p align="center">I speak Intermediate English and Native Spanish</p>
    
    </div>
-   
-   <div align="center">
-     <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
-   </div>
+
+   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
 </div>
 
 <div align="center">
