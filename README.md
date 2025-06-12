@@ -1,38 +1,27 @@
-# Oscar Bolaños Chacon
+<div align="center">
 
-```typescript
-const profile = {
-  name: "Oscar Bolaños Chacon",
-  bio: "Soy un desarrollador Full-Stack en formación, apasionado por dar vida a ideas innovadoras. Mi misión es construir soluciones robustas y eficientes, siempre buscando la optimización perfecta en cada línea de código. Me encanta sumergirme en el mundo de la tecnología, explorar nuevos descubrimientos y aprender constantemente. La Inteligencia Artificial me fascina, y estoy emocionado por todo lo que puedo crear con ella. ¡Listo para enfrentar cualquier desafío y seguir aprendiendo cada día! ",
-  currentWork: "Obtener mayores conocimientos y estudios, encontrar un empleo en el cual pueda desarrollar mis habilidades y profesionalismo",
-  learning: "Me gustaría aprender nuevos frameworks y lenguajes, además de especializarme en la ciencia de datos que va de la mano con la programación",
-  interests: "Front-end,back-end,datos y diseño app web",
-  skills: [
-    "HTML5",
-    "CSS3",
-    "Bootstrap",
-    "Next.js",
-    "React",
-    "Tailwind",
-    "PostgreSQL",
-    "MySQL",
-    "JavaScript",
-    "Python"
-  ],
-}
-```
+# 🌟 Welcome to Oscar Bolaños Chacon's Profile 🌟
+
+<p><em>Soy un desarrollador Full-Stack en formación, apasionado por dar vida a ideas innovadoras. Mi misión es construir soluciones robustas y eficientes, siempre buscando la optimización perfecta en cada línea de código. Me encanta sumergirme en el mundo de la tecnología, explorar nuevos descubrimientos y aprender constantemente. La Inteligencia Artificial me fascina, y estoy emocionado por todo lo que puedo crear con ella. ¡Listo para enfrentar cualquier desafío y seguir aprendiendo cada día! </em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
 
 ## 🔭 I'm currently working on
 
-Obtener mayores conocimientos y estudios, encontrar un empleo en el cual pueda desarrollar mis habilidades y profesionalismo
+<div align="center"><p>Obtener mayores conocimientos y estudios, encontrar un empleo en el cual pueda desarrollar mis habilidades y profesionalismo</p></div>
 
 ## 🌱 I'm currently learning
 
-Me gustaría aprender nuevos frameworks y lenguajes, además de especializarme en la ciencia de datos que va de la mano con la programación
+<div align="center"><p>Me gustaría aprender nuevos frameworks y lenguajes, además de especializarme en la ciencia de datos que va de la mano con la programación</p></div>
 
 ## 👀 I'm interested in
 
-Front-end, back-end, datos y diseño app web
+<div align="center"><p>Front-end, back-end, datos y diseño app web</p></div>
 
 ## 👀 Visitor Count
 
@@ -46,80 +35,72 @@ Front-end, back-end, datos y diseño app web
 
 <!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Togitahub&theme=onedark&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Togitahub&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Togitahub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Togitahub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Togitahub&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Togitahub&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togitahub&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togitahub&theme=radical&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "HTML5",
-    "CSS3",
-    "Bootstrap",
-    "Next.js",
-    "React",
-    "Tailwind"
-  ],
-  "backend": [
-    "PostgreSQL",
-    "MySQL"
-  ],
-  "languages": [
-    "JavaScript",
-    "Python"
-  ]
-}
-```
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500">
+
+</div>
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "Togitahub",
-  linkedin: "oscaranbocha",
-  instagram: "totabch",
-  facebook: "tota.bolanoschacon",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://github.com/Togitahub"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oscaranbocha"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/totabch"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.facebook.com/tota.bolanoschacon"><img src="https://img.shields.io/badge/facebook-%23000000.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+<a href="https://github.com/Togitahub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/oscaranbocha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "totmom07@gmail.com",
-  phone: "+50670216172",
-}
-```
+<div align="center">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+**Email:** totmom07@gmail.com
+**Phone:** +50670216172
 
-process.exit(0); // Until next time 👋
-```
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'Togitahub' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=Togitahub&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/Togitahub?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
