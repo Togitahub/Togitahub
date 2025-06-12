@@ -15,7 +15,9 @@
    
    </div>
 
-   <img alt="Header" width="100%"  src=https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786/>
+   <div align="center">
+      <img width="100%"  src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" />
+   </div>
 </div>
 
 <hr/>
