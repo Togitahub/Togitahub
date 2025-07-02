@@ -82,7 +82,7 @@
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Togitahub&theme=blueberry)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Togitahub&theme=blueberry" alt="GitHub Streak" /></a>
 
 ## 🌐 Socials
 
