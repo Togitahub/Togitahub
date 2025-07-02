@@ -61,6 +61,9 @@
       <td align="center">
         <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" />
       </td>
+       <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts" height="30" alt="adobeillustrator logo" />
+      </td>
     </tr>
   </tbody>
 </table>
