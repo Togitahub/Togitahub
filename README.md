@@ -82,9 +82,7 @@
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togitahub&theme=radical&hide_border=false" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Togitahub&theme=blueberry)](https://git.io/streak-stats)
 
 ## 🌐 Socials
 
