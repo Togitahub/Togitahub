@@ -25,48 +25,6 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
-      </td
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" />
-      </td>
-       <td align="center">
-        <img src="https://skillicons.dev/icons?i=ts" height="30" alt="adobeillustrator logo" />
-      </td>
     </tr>
   </tbody>
 </table>
