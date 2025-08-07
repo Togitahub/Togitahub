@@ -26,7 +26,49 @@
   <tbody>
     <tr>
        <td>
-          <img src="https://skillicons.dev/icons?i=kubernetes" />
+          <img src="https://skillicons.dev/icons?i=angular" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=react" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=js" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=jest" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=ps" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=py" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=nextjs" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=mysql" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=ai" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=html" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=git" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=flask" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=css" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=tailwind" />
+       </td>
+       <td>
+          <img src="https://skillicons.dev/icons?i=ts" />
        </td>
     </tr>
   </tbody>
