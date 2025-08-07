@@ -26,7 +26,7 @@
   <tbody>
     <tr>
       <td align="center">
-            <i class="devicon-angularjs-plain"></i>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
       </td
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
