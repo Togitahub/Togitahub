@@ -25,6 +25,9 @@
 <table align="center">
   <tbody>
     <tr>
+       <td>
+          <img src="https://skillicons.dev/icons?i=kubernetes" />
+       </td>
     </tr>
   </tbody>
 </table>
